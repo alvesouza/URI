@@ -31,11 +31,11 @@ constexpr int floorSqrt(int x)
 }
 
 template <int size>
-struct primos
+struct respostas
 {
     int array[size];
 
-    constexpr primos() : array()
+    constexpr respostas() : array()
     {
         int i = 1, j = 0, numero = 3, raizQuadrada = 0, quantNumero = size;
         bool isPrime = true;
@@ -66,7 +66,7 @@ struct primos
 int main()
 {
     static const int numeroMax = 3500;
-    constexpr struct primos<numeroMax> Primos;
+    constexpr struct respostas<numeroMax> Primos;
     int n, ult, k, i,ultPrime,survivor;
     scanf("%d", &n);
     while (n != 0)
