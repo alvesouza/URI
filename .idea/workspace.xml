@@ -29,13 +29,18 @@
   </component>
   <component name="CMakeSettings">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb427bc7-2dc0-43a7-aad4-208ac62be0f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/a.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entrada.dat" beforeDir="false" afterPath="$PROJECT_DIR$/entrada.dat" afterDir="false" />
+    <list default="true" id="cb427bc7-2dc0-43a7-aad4-208ac62be0f7" name="Default Changelist" comment="1052.cpp">
+      <change afterPath="$PROJECT_DIR$/cpp/1008.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp/1009.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp/1010.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp/1011.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/cpp/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/entrada.dat" beforeDir="false" afterPath="$PROJECT_DIR$/cpp/entrada.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +64,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cpp" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,15 +81,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cpp" />
       <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -91,6 +94,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604897256659</updated>
       <workItem from="1604897268116" duration="3737000" />
+      <workItem from="1619280817362" duration="539000" />
+      <workItem from="1619289576046" duration="132418000" />
     </task>
     <task id="LOCAL-00001" summary="1050.cpp">
       <created>1604899913708</created>
@@ -141,17 +146,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1050.cpp" />
     <MESSAGE value="1051.cpp" />
     <MESSAGE value="1052.cpp" />
     <option name="LAST_COMMIT_MESSAGE" value="1052.cpp" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2511" y="290" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604925839418">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2511" y="290" width="800" height="535" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.29.1920.1051@1920.0.1920.1080" timestamp="1604925839418" />
   </component>
 </project>
