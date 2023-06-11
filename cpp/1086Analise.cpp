@@ -78,7 +78,7 @@ int main (int argc, char const* argv[]) {
 		}
  
 		if(r >= INF || r < 0) puts("impossivel");
-		else printf("%dn", r);
+		else printf("%d\n", r);
 	}
  
 	return 0;
